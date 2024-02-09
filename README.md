@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-moataz&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-moataz" /> </p>
 
-- 🔭 I’m currently working on **E-commerce App**
+- 🔭 I’m currently working on **E-commerce App and sql App**
 
 - 🌱 I’m currently learning **javaScript**
 
